@@ -5,4 +5,4 @@ Based on todays' requirements of industries and businesses, people have more pla
 ## Installation
 The tools that are used in this project are Python, Airflow, Docker, Git and these are the installations that a user need to have.
 ## usage guidelines
-The users must have updated python version and you can check the version by typing the python --version in terminal or python3 --version in zsh. The user also need to clone the git repo from github by using git clone . Then you also need to run the docker and airflow to have the ETL pipeline works. 
+The users must have updated python version and you can check the version by typing the python --version in terminal or python3 --version in zsh. The user also need to clone the git repo from github by using git clone https://github.com/ElovefishW/MLOp-Project.git. Then you also need to run the docker and airflow to have the ETL pipeline works. 
